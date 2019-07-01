@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Airports>
+ <Airport>
+	  <AirportCode>ORD</AirportCode> 
+	  <Name>Chicago O'Hare</Name> 
+ </Airport>
+ <Airport>
+	  <AirportCode>LHR</AirportCode> 
+	  <Name>London Heathrow</Name> 
+ </Airport>
+  <Airport>
+	  <AirportCode>JFK</AirportCode> 
+	  <Name>New York JFK</Name> 
+ </Airport>
+ <Airport>
+	  <AirportCode>NRT</AirportCode> 
+	  <Name>Tokyo Narita</Name> 
+ </Airport>
+</Airports>

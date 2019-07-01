@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Root>
+ <Continent>
+	  <Name>Africa</Name> 
+	  <AreaKM>30370000</AreaKM>
+ </Continent>
+ <Continent>
+	  <Name>Asia</Name> 
+	  <AreaKM>43820000</AreaKM>
+ </Continent>
+ <Continent>
+	  <Name>Antarctica</Name> 
+	  <AreaKM>13720000</AreaKM>
+ </Continent>
+ <Continent>
+	  <Name>North America</Name> 
+	  <AreaKM>24490000</AreaKM>
+ </Continent>
+ <Continent>
+	  <Name>South America</Name> 
+	  <AreaKM>17840000</AreaKM>
+ </Continent>
+ <Continent>
+	  <Name>Europe</Name> 
+	  <AreaKM>10180000</AreaKM>
+ </Continent>
+ <Continent>
+	  <Name>Australia</Name> 
+	  <AreaKM>9008500</AreaKM>
+ </Continent>
+ <Ocean>
+		<Name>Pacific</Name>
+		<AreaKM>155557000</AreaKM>
+		<AvgDepthM>4028</AvgDepthM>
+	</Ocean>
+	<Ocean>
+		<Name>Atlantic</Name>
+		<AreaKM>76762000</AreaKM>
+		<AvgDepthM>3926</AvgDepthM>
+	</Ocean>
+	<Ocean>
+		<Name>Indian</Name>
+		<AreaKM>68566000</AreaKM>
+		<AvgDepthM>3963</AvgDepthM>
+	</Ocean>
+	<Ocean>
+		<Name>Southern</Name>
+		<AreaKM>20327000</AreaKM>
+		<AvgDepthM>4500</AvgDepthM>
+	</Ocean>
+	<Ocean>
+		<Name>Arctic</Name>
+		<AreaKM>14056000</AreaKM>
+		<AvgDepthM>1205</AvgDepthM>
+	</Ocean>
+</Root>

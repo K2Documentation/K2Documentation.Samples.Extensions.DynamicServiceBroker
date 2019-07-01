@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Countries>
+ <Country>
+	  <Name>United States of America</Name> 
+	  <CountryISOCode>US</CountryISOCode>
+		<Capital>Washington, DC</Capital>
+ </Country>
+ <Country>
+	  <Name>United Kingdom</Name> 
+	  <CountryISOCode>UK</CountryISOCode> 
+		<Capital>London</Capital>
+ </Country>
+  <Country>
+	  <Name>China</Name> 
+	  <CountryISOCode>CN</CountryISOCode>
+		<Capital>Beijing</Capital>
+ </Country>
+ <Country>
+	  <Name>South Africa</Name> 
+	  <CountryISOCode>ZA</CountryISOCode>
+		<Capital>Pretoria</Capital>
+ </Country>
+ <Country>
+	  <Name>India</Name> 
+	  <CountryISOCode>IN</CountryISOCode> 	  
+		<Capital>New Delhi</Capital>
+ </Country>
+ <Country>
+	  <Name>Brazil</Name> 
+	  <CountryISOCode>BR</CountryISOCode> 	  
+		<Capital>Brasilia</Capital>
+ </Country>
+</Countries>
